@@ -5,6 +5,7 @@
     Abstract: This program will allow the user to input a city and will give back the temperature at that location.
     Authors: Matthew Fernandez, Irvine Martinez and Suji Hancock
     Date: December 15, 2021
+    Trello Board: https://trello.com/b/f0FBBro1/weatherapi-workspace
 """
 
 # Needed imports to run files
