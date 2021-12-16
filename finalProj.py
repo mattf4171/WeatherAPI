@@ -1,12 +1,11 @@
 """
+    Github link: https://github.com/mattf4171/WeatherAPI
     Course: CST 205
     Title: Weather API Project
     Abstract: This program will allow the user to input a city and will give back the temperature at that location.
     Authors: Matthew Fernandez, Irvine Martinez and Suji Hancock
     Date: December 15, 2021
 """
-
-# Github link: https://github.com/mattf4171/WeatherAPI
 
 # Needed imports to run files
 from flask import Flask, render_template, request
